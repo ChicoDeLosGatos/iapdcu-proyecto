@@ -1,0 +1,13 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {}
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "EntregaMap"
+        }
+    },
+    "id": "1763e335-843c-415b-810b-41053c717fbc",
+    "version": "5.2.0.0"
+}

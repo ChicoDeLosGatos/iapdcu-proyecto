@@ -1,0 +1,16 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "AluGrupoJSON"
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "AluGrupoMap"
+        }
+    },
+    "id": "04425ff9-724f-4c8d-8551-8136590b06ec",
+    "version": "5.2.0.0"
+}

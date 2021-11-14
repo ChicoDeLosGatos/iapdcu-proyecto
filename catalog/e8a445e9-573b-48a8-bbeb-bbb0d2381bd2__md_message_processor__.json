@@ -1,0 +1,16 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "EntregaJSONF"
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "EntregaMap"
+        }
+    },
+    "id": "e8a445e9-573b-48a8-bbeb-bbb0d2381bd2",
+    "version": "5.2.0.0"
+}

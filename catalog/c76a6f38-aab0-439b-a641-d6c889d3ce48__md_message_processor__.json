@@ -1,0 +1,16 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "AcEvReqXML"
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "AcEvReq"
+        }
+    },
+    "id": "c76a6f38-aab0-439b-a641-d6c889d3ce48",
+    "version": "5.2.0.0"
+}

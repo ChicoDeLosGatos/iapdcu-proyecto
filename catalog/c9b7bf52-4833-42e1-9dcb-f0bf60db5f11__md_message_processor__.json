@@ -1,0 +1,16 @@
+{
+    "inputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "AlumnoAsigCSV"
+        }
+    },
+    "outputMessageMetadata": {
+        "messagePayload": {
+            "connectorName": "#_custom_mule_metadata_type_#",
+            "typeId": "AlumnoAsigMap"
+        }
+    },
+    "id": "c9b7bf52-4833-42e1-9dcb-f0bf60db5f11",
+    "version": "5.2.0.0"
+}

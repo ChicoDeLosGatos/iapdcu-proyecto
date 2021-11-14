@@ -1,0 +1,31 @@
+<custom__type__definition>
+  <version>5.2.0.0</version>
+  <typeName class="org.mule.common.metadata.DefaultMetaDataKey">
+    <id>EntregaJSON</id>
+    <displayName>EntregaJSON</displayName>
+    <category>DEFAULT</category>
+    <metaDataKeyPropertiesManager>
+      <properties>
+        <org.mule.common.metadata.key.property.dsql.DsqlFromMetaDataKeyProperty/>
+      </properties>
+    </metaDataKeyPropertiesManager>
+  </typeName>
+  <metadataModel class="org.mule.common.metadata.DefaultListMetaDataModel">
+    <dataType>LIST</dataType>
+    <metaDataModelPropertiesManager>
+      <properties>
+        <org.mule.tooling.metadata.properties.DefinitionEditorModeType>
+          <mode>SCHEMA</mode>
+          <path>C:\Users\Administrador.WIN-2O4P6U7CI32\Downloads\PROYECTO\JsonSchemaEntrega.txt</path>
+        </org.mule.tooling.metadata.properties.DefinitionEditorModeType>
+      </properties>
+    </metaDataModelPropertiesManager>
+    <model class="org.mule.common.metadata.DefaultUnknownMetaDataModel">
+      <dataType>UNKNOWN</dataType>
+      <metaDataModelPropertiesManager>
+        <properties/>
+      </metaDataModelPropertiesManager>
+    </model>
+    <isArray>false</isArray>
+  </metadataModel>
+</custom__type__definition>
